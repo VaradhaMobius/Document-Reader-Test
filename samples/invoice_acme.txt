@@ -1,0 +1,24 @@
+ACME SUPPLIES LLC
+123 Industrial Parkway
+Austin, TX 78701
+Email: billing@acmesupplies.example
+
+INVOICE
+Invoice Number: INV-2024-88421
+Invoice Date: March 14, 2024
+Due Date: April 13, 2024
+Customer: Contoso Retail Group
+PO Number: PO-7781
+
+Line Items:
+1. Warehouse shelving unit (x12)     $4,800.00
+2. Packing tape cases (x40)            $640.00
+3. Shipping & handling                 $125.50
+
+Subtotal:                            $5,565.50
+Tax (8.25%):                           $459.15
+Total Amount Due:                    $6,024.65
+
+Payment terms: Net 30
+Remit to: ACME SUPPLIES LLC
+Notes: Thank you for your business. Late payments subject to 1.5% monthly fee.
